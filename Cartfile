@@ -1,2 +1,2 @@
 github "pinterest/PINRemoteImage" "186bc04"
-github "pinterest/PINCache"
+github "pinterest/PINCache" "3.0.1-beta.8"
